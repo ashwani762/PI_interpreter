@@ -1,3 +1,3 @@
 ## PI Interpreter
 
-### An Esoteric language based on Brainf**k language
+### An Esoteric language based on Brainf**k
